@@ -5,13 +5,17 @@
 
 ![](Introduction_Image.png)
 
-This project analyses the operational and financial performance of Secure Life General Hospital using Microsoft Excel. My aim is to transform patient data into meaningful insights that support effective decision-making.
+The Secure Life General Hospital Performance Dashboard is a data analysis project I developed using Microsoft Excel to evaluate the hospital's operational and financial performance. The project focuses on patient visits, departmental performance, admission trends, medical billing, insurance coverage, and payment status.
+
+My aim is to transform raw hospital data into meaningful insights through data analysis and visualization. The dashboard provides a clear overview of the hospital's activities and helps identify important trends that can support effective decision-making.
+
 
 
 ## ABOUT THE DATASET
 
 The dataset contains patient visit records, including age, gender, admission and discharge dates, department, diagnosis, total bill amount, insurance coverage, and payment status.
 
+I used these variables to analyse patient distribution, compare departmental performance, monitor billing and payments, and examine admission patterns over time. The dataset also supports the calculation of key performance indicators, such as average length of stay and insurance coverage.
 
 ## PROBLEM STATEMENT
 
@@ -36,6 +40,8 @@ The dashboard presents key performance indicators, charts, and interactive filte
 - Payment status: 57% paid, 17% partially paid, and 26% pending.
 - Gender distribution: Female patients accounted for approximately 51% of visits, while male patients accounted for about 49%.
 - Admission trends: Patient visits fluctuated across the periods shown in the dashboard.
+- Age Group Distribution: The dashboard shows differences in visit numbers across age groups, helping identify groups with higher hospital usage.
+- These findings provide a useful overview of patient activity and the hospital's financial position. However, the exact outstanding balance and the causes of admission fluctuations require further analysis of the underlying data.
 
 ##  RECOMMENDATION FOR FURTHER ANALYSIS 
 
