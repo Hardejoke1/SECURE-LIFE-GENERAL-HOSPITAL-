@@ -11,7 +11,7 @@ This project analyses the operational and financial performance of Secure Life G
 ## ABOUT THE DATASET
 
 The dataset contains patient visit records, including age, gender, admission and discharge dates, department, diagnosis, total bill amount, insurance coverage, and payment status.
-*To see the data set*:[](click here)
+
 
 ## PROBLEM STATEMENT
 
